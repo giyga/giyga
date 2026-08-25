@@ -20,6 +20,6 @@ As of august 2026, I am learning fragment shaders using GLSL.
 I like learning from first principles, with solid understanding data-structures and algorithms and mathematics for computer graphics, to help build robust engineering solutions.
 My main programming languages are C and Python, but I have also worked with C# and JavaScript. I have knowledge of libraries such as Numpy, SDL and some basic OpenGL with Python.
 
-I am open to all sorts of jobs related to the field, and also everytihng related to programming in general, and totally willing to collaborate in any open-source projects.
+I am open to both remote, on-site and hybrid jobs related to computer graphics programming, and also anytihng related to programming in general, and willing to collaborate in any open-source projects.
 
 Oh, and I am a certified trilingual (I also speak Spanish and French).
