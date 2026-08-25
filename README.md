@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I am a computer programmer currently living in El Salvador, learning about real-time rendering pipelines.
 As of august 2026, I am learning fragment shaders using GLSL.
 
-I like learning from first principles, with solid understanding data-structures and algorithms and mathematics for computer graphics, to guarantee proper engineering solutions.
+I like learning from first principles, with solid understanding data-structures and algorithms and mathematics for computer graphics, to help build robust engineering solutions.
 My main programming languages are C and Python, but I have also worked with C# and JavaScript. I have knowledge of libraries such as Numpy, SDL and some basic OpenGL with Python.
 
 I am open to all sorts of jobs related to the field, and also everytihng related to programming in general, and totally willing to collaborate in any open-source projects.
